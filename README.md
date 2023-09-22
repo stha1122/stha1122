@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Stories + Visuals |Problem Solver | ❤️ Java</h3>
+<h3 align="center">Machine Learning Enthusiast | Data Stories + Visuals | Problem Solver | ❤️ Java</h3>
 
 - 🔭 I’m currently working on **Chatbot in Dialogflow**
 
@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stha1122&show_icons=true&locale=en" alt="stha1122" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stha1122&" alt="stha1122" /></p>
 
