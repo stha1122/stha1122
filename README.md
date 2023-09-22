@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **powerbi**
 
-- 📝 I regularly write articles on [ffv](ffv)
+<!--- 📝 I regularly write articles on [ffv](ffv) --->
 
 - 💬 Ask me about **Data analysis and visualization | Machine Learning**
 
 - 📫 How to reach me **shwethashwe1144@gmail.com**
 
-- 📄 Know about my experiences [dvfv](dvfv)
+<!--- 📄 Know about my experiences [dvfv](dvfv) --->
 
-- ⚡ Fun fact **vfv**
+<!-- ⚡ Fun fact **vfv** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
