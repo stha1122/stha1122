@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Chatbot in Dialogflow**
 
-- 🌱 I’m currently learning **powerbi**
-
 <!--- 📝 I regularly write articles on [ffv](ffv) --->
 
 - 💬 Ask me about **Data analysis and visualization | Machine Learning**
