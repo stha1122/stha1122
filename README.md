@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data analysis and visualization | Machine Learning**
 
-- 📫 How to reach me **shwethashwe1144@gmail.com**
+- 📫 How to reach me **shwethaskumar015@gmail.com**
 
 <!--- 📄 Know about my experiences [dvfv](dvfv) --->
 
