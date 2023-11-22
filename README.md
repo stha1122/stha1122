@@ -26,9 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stha1122&show_icons=true&locale=en&layout=compact" alt="stha1122" /></p>
   <br>
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=stha1122&color=green">
-</a>
+  
   <br>
 
 
