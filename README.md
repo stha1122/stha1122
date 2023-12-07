@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
 <h3 align="center">Machine Learning Enthusiast | Data Stories + Visuals | Problem Solver | ❤️ Java</h3>
 
-- 🔭 I’m currently working on **Chatbot in Dialogflow**
+- 🤖 I’m currently learning **TensorFlow**
 
 <!--- 📝 I regularly write articles on [ffv](ffv) --->
 
