@@ -33,7 +33,22 @@
 <!--                         <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=stha1122&show_icons=true&theme=radical"></p> -->
                   </th>
                   <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stha1122"> </p>
+                          <!-- Github Streak Stats -->
+             <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=stha1122&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    </a>
+<!--     <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=stha1122&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
+    </a> -->
+                  </th>
+                  <th>
+                                           <!-- LeetCode Stats -->
+          <a href="https://leetcode.com/stha1122#gh-dark-mode-only">
+              <img src="https://leetcard.jacoblin.cool/stha1122?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+          </a>
+<!--           <a href="https://leetcode.com/stha1122#gh-light-mode-only">
+              <img src="https://leetcard.jacoblin.cool/stha1122?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+          </a> -->
                   </th>
             </tr>
       </thead>
