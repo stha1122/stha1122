@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Stories + Visuals | Problem Solver | ❤️ Java</h3>
-
-- 🤖 I’m currently learning **TensorFlow**
-
-<!--- 📝 I regularly write articles on [ffv](ffv) --->
-
-- 💬 Ask me about **Data analysis and visualization | Machine Learning**
-
-- 📫 How to reach me **shwethaskumar015@gmail.com**
-
 <!--- 📄 Know about my experiences [dvfv](dvfv) --->
 
 <!-- ⚡ Fun fact **vfv** -->
